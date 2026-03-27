@@ -1,0 +1,25 @@
+name: task_management_app
+description: A new Flutter project for a polished task management app.
+publish_to: 'none:'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.2
+  flutter_localizations:
+    sdk: flutter
+  uuid: ^4.1.0
+
+dev_dependencies:
+  hive_generator: ^2.0.0
+  build_runner: ^2.4.6
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
