@@ -7,7 +7,7 @@
 .pub/
 /build/
 .claude/
-
+.dart_tool
 # IDE - VS Code
 .vscode/
 

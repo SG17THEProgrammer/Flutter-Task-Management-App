@@ -92,7 +92,6 @@ flutter build ios
 
 Built with Flutter & Hive for the Track B assignment.
 
-## AI usage
-I used Claude Code for the app
-Used MAGIC prompt strategy to get the most out of the LLM.
-For the resolutions of errors, just provided the errors to the claude code. No need to give anything extra as claude code remembers the context already 🙂 
+AI Usage
+
+I used Claude Code to help build the app, mainly with the MAGIC prompt approach. For fixing errors, I usually just shared the error messages since it already kept track of the context, which made things quick and easy.
